@@ -15,5 +15,8 @@ module.exports = {
   rules: {
     "spaced-comment": "off",
     "no-console": "off"
+  },
+  env: {
+    browser: true
   }
 };
